@@ -8,6 +8,7 @@
     "build",
     "speed",
     "test",
+    "src",
     "*.md",
     "AUTHORS.txt",
     "Gruntfile.js",
